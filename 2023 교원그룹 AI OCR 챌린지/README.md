@@ -31,11 +31,17 @@ A total of 2 text image folders and 3 csv files are provided in the competition.
 
 ### 2. Data Example
  1) image
-<img src = ''>
+<img src = './img/train_img.png'>
 
  2) csv
-<img src = ''>
+    - train.csv
+<img src = './img/train_csv_img.png'>
 
+    - test.csv
+<img src = './img/test_csv_img.png'>
+
+    - submission.csv
+<img src = './img/submission_csv_img.png'>
 
 ### 3. Model Explanation
  1)
@@ -44,4 +50,4 @@ A total of 2 text image folders and 3 csv files are provided in the competition.
  4)
  
  ### 4. Certification
- <img src = ''>
+ <img src = './img/OCR_Certification'>
