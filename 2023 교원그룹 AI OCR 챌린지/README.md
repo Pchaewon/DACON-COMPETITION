@@ -34,13 +34,13 @@ A total of 2 text image folders and 3 csv files are provided in the competition.
     <img src = './img/train_img.PNG'>
 
  2) csv
-    - train.csv
+    - train.csv<br>
       <img src = './img/train_csv_img.PNG'>
 
-    - test.csv
+    - test.csv<br>
       <img src = './img/test_csv_img.PNG'>
 
-    - submission.csv
+    - submission.csv<br>
       <img src = './img/submission_csv_img.PNG'>
 
 ### 3. Model Explanation
